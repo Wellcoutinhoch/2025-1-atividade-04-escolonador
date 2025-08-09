@@ -182,10 +182,10 @@ time ./threads_cpu_io
 
 6. **Relatório** deve incluir:
    - Prints das saídas (execução e monitoramento)
-    ![Print da execução do programa](<img width="827" height="372" alt="execucao_threads" src="https://github.com/user-attachments/assets/d8e5dd76-cd33-4347-b9af-fbfcdd1171dc" />)
-    ![Print do top mostrando threads](<img width="1462" height="382" alt="top h p" src="https://github.com/user-attachments/assets/313d474b-6506-4c9d-a1fe-e462557ceed6" />)
-    ![Print da execução do programa](<img width="797" height="502" alt="tempo_execucao" src="https://github.com/user-attachments/assets/649698f9-5853-4b0a-a2fb-65f967f0f04f" />)
-    ![Print do top mostrando threads](<img width="1303" height="345" alt="TOP tempo" src="https://github.com/user-attachments/assets/368ab966-358a-4f71-b166-c8ccf9dd8bf9" />) 
+    ![Print da execução do programa](https://i.postimg.cc/yN51gTCh/execucao-threads.png)
+    ![Print do top mostrando threads](https://i.postimg.cc/Bvd3QQ2M/top-h-p.png)
+    ![Print da execução do programa](https://i.postimg.cc/9FWhfkq5/tempo-execucao.png)
+    ![Print do top mostrando threads](https://i.postimg.cc/8Pk2GrqT/TOP-tempo.png) 
    - Diferença observada entre threads CPU e I/O
    - Resultados do `perf stat`
 
